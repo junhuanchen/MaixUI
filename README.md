@@ -23,6 +23,8 @@
 <br />
 <br />
 
+> Development too fast, the README to wait!!!
+
 **This is the MicroPython UI framework.**
 
 - Decoration design
